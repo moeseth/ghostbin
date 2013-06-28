@@ -1,4 +1,6 @@
-ghostbin
-========
+GhostBin iOS App
+================
 
-post to ghostbin.com
+Post to ghostbin.com
+
+The app will also be available on AppStore!
